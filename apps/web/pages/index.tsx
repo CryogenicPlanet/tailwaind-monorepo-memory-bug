@@ -1,9 +1,9 @@
-import { Button } from "ui";
+import { Button } from "../../../packages/ui";
 
 export default function Web() {
   return (
     <div>
-      <h1>Web</h1>
+      <p className="text-red-500">Web</p>
       <Button />
     </div>
   );
