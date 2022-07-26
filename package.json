@@ -14,6 +14,7 @@
   },
   "devDependencies": {
     "@modfy/eslint-config": "^0.1.1",
+    "css": "^3.0.0",
     "prettier": "^2.7.1",
     "prettier-config-standard": "^5.0.0",
     "turbo": "latest"
